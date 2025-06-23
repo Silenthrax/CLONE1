@@ -30,7 +30,7 @@ lyricsgenius
 motor 
 MukeshAPI
 numpy<2.0.0
-ntgcalls==1.1.2
+ntgcalls==2.0.4
 openai==0.28.0
 opencv-python
 pillow==9.5.0
@@ -42,12 +42,12 @@ pycryptodome
 pydub
 pyfiglet
 pykeyboard
-# pyrogram==2.0.106
+pyrogram==2.0.106
 git+https://github.com/KurimuzonAkuma/pyrogram.git
 python-dotenv
 python-telegram-bot==21.1.1
 python-whois
-pyrate-limiter==2.10.0
+pyrate-limiter==3.7.1
 pyshorteners
 pyttsx3
 pytz
@@ -68,7 +68,7 @@ telethon==1.36.0
 tgcrypto==1.2.5
 unidecode
 wget
-yt-dlp
+yt-dlp>=2025.6.9
 youtube-search
 youtube-search-python
 flask
