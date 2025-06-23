@@ -5,7 +5,7 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/INNOCENTBOY2926/count.svg" />
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋𝐕𝐈𝐏+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+𝐌𝐔𝐒𝐈𝐂🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱+𝐌𝐔𝐒𝐈𝐂🖤+🥀"></b></h1>
 
 <p align="center"><a href="https://t.me/SILENTHRAX"><img src="https://files.catbox.moe/1i9pr6.jpg" width="600"></a></p>
 
